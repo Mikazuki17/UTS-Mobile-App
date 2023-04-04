@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.uts'
+    namespace 'uts'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.uts"
+        applicationId "umnlife"
         minSdk 24
         targetSdk 33
         versionCode 1
